@@ -3,7 +3,7 @@
 Portfolio présentant qui je suis à travers mes projets réalisés et en cours, 
 à travers un thème décrit en dessous et une partie présentant qui je suis.
 
-## MAP SITE
+## SITEMAP
 
 * Home avec mon nom/prénom & vidéo éditait en fond
 * Navigation dynamique > "A propos","Projet Principal 1, 2 et 3","Liste des projets secondaire", "Page Contact".
@@ -12,6 +12,8 @@ Portfolio présentant qui je suis à travers mes projets réalisés et en cours,
 * Liste de mes projets secondaires
 * Page projet secondaire
 * Page Contact
+![image](https://image.noelshack.com/fichiers/2017/19/1494786282-sitemap.jpg)
+
 
 ## THEME CHOISIS
 
