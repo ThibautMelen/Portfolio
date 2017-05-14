@@ -5,6 +5,7 @@ Portfolio présentant qui je suis à travers mes projets réalisés et en cours,
 
 ## SITEMAP
 
+![image](https://image.noelshack.com/fichiers/2017/19/1494786282-sitemap.jpg)
 * Home avec mon nom/prénom & vidéo éditait en fond
 * Navigation dynamique > "A propos","Projet Principal 1, 2 et 3","Liste des projets secondaire", "Page Contact".
 * Page A propos
@@ -12,8 +13,6 @@ Portfolio présentant qui je suis à travers mes projets réalisés et en cours,
 * Liste de mes projets secondaires
 * Page projet secondaire
 * Page Contact
-![image](https://image.noelshack.com/fichiers/2017/19/1494786282-sitemap.jpg)
-
 
 ## THEME CHOISIS
 
@@ -26,8 +25,6 @@ C'est effectivement un mélange qui risque de donner un thème assez sombre pouv
 Mais le sentiment que je veux faire ressentir au contraire est bien l'inverse en prodiguant un futur libre, bienveillant et ou la technologie est partis intégrante de nos vie.
 
 Je souhaite avant tout que l'utilisateur se rendant sur mon portfolio, ressente la volonté que j'ai de créer quelque chose de grand.
-
-
 
 ## TECHNOLOGIES
 Site dévelloper avec HTML, CSS, JS et framwork de WebGl
