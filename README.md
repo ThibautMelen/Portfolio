@@ -18,7 +18,7 @@ Portfolio présentant qui je suis à travers mes projets réalisés et en cours,
 ![image](https://image.noelshack.com/fichiers/2017/19/1494779404-theme-portfolio.jpg)
 
 Pour le thème de mon portfolio j'ai choisi de mixer deux courants artistiques que j'apprécie particulièrement "le Futurisme et Surréalisme".
-Accouplé à cela je souhaite insister sur l'évolution de la science et des technologies depuis ces dernières années et les prochaines comme le voyage interplanétaire et le transhumanisme. 
+Accouplé à cela je souhaite insister sur l'évolution de la science et des technologies depuis ces dernières années et les prochaines comme le voyage interplanétaire, le transhumanisme ou autres 
 
 C'est effectivement un mélange qui risque de donner un thème assez sombre pouvant faire penser à un style de pensée à la "1984".
 Mais le sentiment que je veux faire ressentir au contraire est bien l'inverse en prodiguant un futur libre, bienveillant et ou la technologie est partis intégrante de nos vie.
